@@ -1,0 +1,23 @@
+.subject-container {
+  position: absolute;
+  margin-left: 330px;
+  top: 0;
+  height: 100vh;
+}
+
+.title-year {
+  font-size: small;
+}
+
+span {
+  cursor: pointer;
+}
+
+td {
+  font-size: small;
+}
+
+.btn-add {
+  position: relative;
+  left: 1030px;
+}

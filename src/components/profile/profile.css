@@ -1,0 +1,22 @@
+.profile-container {
+  position: absolute;
+  margin-left: 330px;
+  top: 0;
+  overflow-x: hidden;
+}
+
+.label-input {
+  padding: 10px;
+}
+
+.img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.button-edit {
+  margin-right: 125px;
+  float: right;
+}

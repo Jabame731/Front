@@ -1,0 +1,11 @@
+.form {
+  border-radius: 5px;
+  border: none;
+  border-bottom: 1px solid gray;
+  outline: none;
+}
+
+.buttons {
+  margin-left: 10px;
+  font-size: 14px;
+}

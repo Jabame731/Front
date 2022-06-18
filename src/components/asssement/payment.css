@@ -1,0 +1,7 @@
+.payment-container {
+  position: absolute;
+  margin-left: 330px;
+  top: 0;
+  height: 100vh;
+  overflow-x: hidden;
+}
