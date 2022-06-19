@@ -1,5 +1,5 @@
 npm install
 
-npm run
+npm start
 
 main page: http://localhost:3000
